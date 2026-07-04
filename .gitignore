@@ -19,7 +19,8 @@ build/
 env/
 venv/
 anaconda_projects/
-
+.ipynb_checkpoints
+.virtual_documents/
 # macOS
 .DS_Store
 .AppleDouble
